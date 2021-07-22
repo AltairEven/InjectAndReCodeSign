@@ -1,0 +1,1 @@
+python InjectAndReCodeSign.py IpaName.ipa "Apple Development: account (******)" embedded.mobileprovision com.altair.bundleId 'NewIpaName' injectionFolderName
